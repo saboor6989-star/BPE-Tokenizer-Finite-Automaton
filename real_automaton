@@ -1,0 +1,37 @@
+digraph {
+	q0
+	q1
+	q2
+	q3
+	q4
+	q5
+	q6
+	q7
+	q8
+	q9
+	q10
+	q11
+	q12
+	q13
+	q14
+	q15
+	q16
+	q17
+	q0 -> q1 [label=i]
+	q1 -> q2 [label=n]
+	q2 -> q3 [label=g]
+	q0 -> q4 [label=l]
+	q4 -> q5 [label=e]
+	q5 -> q6 [label=a]
+	q6 -> q7 [label=r]
+	q7 -> q8 [label=n]
+	q0 -> q9 [label=t]
+	q9 -> q10 [label=o]
+	q10 -> q11 [label=k]
+	q11 -> q12 [label=e]
+	q12 -> q13 [label=n]
+	q0 -> q14 [label=a]
+	q14 -> q15 [label=u]
+	q15 -> q16 [label=t]
+	q16 -> q17 [label=o]
+}
